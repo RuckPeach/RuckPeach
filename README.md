@@ -2,7 +2,7 @@
 
 
 # 👨‍💻 About Me
-Hi! I'm **Danupong**, an IT and programmer  about building efficient systems, automating processes, and connecting the dots between hardware and software any Potocal Network private\public
+Hi! I'm **Danupong**, an IT and programmer  about building efficient systems, automating processes, and connecting the dots between hardware and software any potocal network private\public
 
 - 🧰 **Tool Builder** – CLI, Web UI, Dashboards
 - 🌐 **Web-Enabled Systems** – TCP/IP, SCPI, WebSocket, REST API
