@@ -19,7 +19,7 @@ Hi! I'm **Danupong**, an IT and programmer  about building efficient systems, au
 
 
 
-### 🌐 Web & Network  
+### 🌐 web developer 
 ![My Languages Web](https://skillicons.dev/icons?i=html,css,javascript&theme=dark&perline=15)
 
 
